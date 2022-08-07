@@ -1,0 +1,21 @@
+.row{
+    padding: 1rem;
+    
+    background-color:rgb(16, 16, 16);
+
+    h2{
+        margin: 0.3rem;
+        font-weight: 400;
+        color: white;
+    }
+
+
+    >div{
+        display: flex;
+        // justify-content: space-evenly;
+        overflow-x: auto;
+        justify-content: center;
+        // margin: 2rem;
+    }
+
+}
